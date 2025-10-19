@@ -1,6 +1,6 @@
 # DelTemp for Windows  
 **Programmer:** Bob Paydar  
-
+![screenshot](https://github.com/bob-paydar/DelTemp/blob/main/Screenshot.png)
 ---
 
 ## Overview
